@@ -58,6 +58,8 @@ Tasks handled by Python:
 - Calculated average time to fill and engagement duration.
 - Flagged anomalies (e.g., extreme shipment delays > 300 days).
 
+---
+
 ## 📌 Key Insights
 - 80%+ fill rate after completed appointments in recent years (post-2022)
 - Avg. fill shipment delay is around 50 days, with historical spikes up to 531 days
@@ -65,6 +67,8 @@ Tasks handled by Python:
 - Reversals in the first three fills increased in 2023 compared to prior years
 - 5,621 out of 9,960 MRNs dropped care — highlighting the need for re-engagement protocols
 - Consistent drop in first completed appointments during 2020 (COVID effect)
+
+---
 
 ## 🧰 Tools Used
 - Power BI:	Interactive dashboard and filtering
