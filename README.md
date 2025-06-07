@@ -72,6 +72,6 @@ Tasks handled by Python:
 
 ## 🧰 Tools Used
 - Power BI:	Interactive dashboard and filtering
-- Excel / CSV:	Raw source data from clinics and pharmacies
+- Excel & CSV:	Raw source data from clinics and pharmacies
 - MySQL: Data Table extract, views creation, CTEs
 - Python (pandas, numpy)	Preprocessing, anomaly detection, cohort analysis
