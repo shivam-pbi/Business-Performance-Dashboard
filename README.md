@@ -1,4 +1,4 @@
-# 🩺 Bwell BI Performance Dashboard – Power BI/ SQL/ Python
+# 🩺 BI Performance Dashboard – Power BI/ SQL/ Python
 
 This dashboard is a comprehensive performance tracker for PrEP (Pre-Exposure Prophylaxis) program participants, offering visibility into patient engagement, appointment adherence, prescription fills, medication types, and overall care continuity.
 
